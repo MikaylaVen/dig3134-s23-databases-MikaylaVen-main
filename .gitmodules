@@ -1,0 +1,3 @@
+[submodule "linkedin-node-databases"]
+	path = linkedin-node-databases
+	url = https://github.com/lucidbard/linkedin-node-databases.git

@@ -1,0 +1,23 @@
+{
+  "name": "ex10",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Using a third-party API that provides changing values, implement a caching service using Redis such that every time your function is called, your program only retrieves data from the third party API every 30 seconds.",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon --experimental-json-modules --exec babel-node main.js"
+  },
+  "author": "Mikayla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/node": "^7.20.7",
+    "@babel/preset-env": "^7.21.4"
+  }
+}

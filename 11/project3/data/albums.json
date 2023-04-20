@@ -1,0 +1,89 @@
+[{
+    "Album": "Nevermind",
+    "Artist Id": "12345",
+    "Album Id": "67890",
+    "Artist": "Nirvana",
+    "Release date": "September 24,1991",
+    "genre": "Grunge",
+    "Top tracks": [
+      {
+        "Track": "Smells Like Teen Spirit",
+        "duration": "5:01"
+      },
+      {
+        "Track": "Come As You Are",
+        "duration": "3:38"
+      },
+      {
+        "Track": "Something In The Way",
+        "duration": "3:52"
+      }
+    ]
+  },
+  {
+    "Album": "The Miseducation of Lauryn Hill",
+    "Artist Id": "57890",
+    "Album Id": "09852",
+    "Artist": "Lauryn Hill",
+    "Release date": "August 25, 1998",
+    "genre": "R&B",
+    "Top tracks": [
+      {
+        "Track": "Doo Wop (That Thing)",
+        "duration": "5:20"
+      },
+      {
+        "Track": "Ex-Factor",
+        "duration": "5:26"
+      },
+      {
+        "Track": "Can't take My Eyes Off of You - (I Love You Baby",
+        "duration": "3:41"
+      }
+    ]
+  },
+  {
+    "Album": "Thriller",
+    "Artist Id": "36899",
+    "Album Id": "987453",
+    "Artist": "Michael Jackson",
+    "Release date": "November 29, 1982",
+    "genre": "Pop",
+    "Top tracks": [
+      {
+        "Track": "Billie Jean",
+        "duration": "4:53"
+      },
+      {
+        "Track": "Beat It",
+        "duration": "4:18"
+      },
+      {
+        "Track": "Thriller",
+        "duration": "5:57"
+      }
+    ]
+  },
+  {
+    "Album": "OK Computer",
+    "Artist Id": "36899",
+    "Album Id": "987453",
+    "Artist": "Radiohead",
+    "Release date": "May 21, 1997",
+    "genre": "Art rock",
+    "Top tracks": [
+      {
+        "Track": "No Surprises",
+        "duration": "3:49"
+      },
+      {
+        "Track": "Karma Police",
+        "duration": "4:24"
+      },
+      {
+        "Track": "Paranoid Android",
+        "duration": "6:27"
+    }
+]
+}
+]
